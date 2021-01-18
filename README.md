@@ -1,4 +1,4 @@
-# README Code The Dream Backend2 Week 5
+# README Code The Dream Backend
 # Rails + Bootstrap lesson
 
 This lesson is adapted from
@@ -19,7 +19,7 @@ Then start the server and have a look at the application.  Create a shark, just
 As you can see, the application has not been styled at all.  We will use Bootstrap
 to style it.
 
-Before you make any changes, create a git branch called backend2-week4, and make your changes inside that.
+Before you make any changes, create a git branch called bootstrap, and make your changes inside that.
 
 # Adding Bootstrap
 
